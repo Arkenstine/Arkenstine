@@ -1,2 +1,2 @@
-![Screenshot](witcher.jpg)
+![Screenshot](banner.jpg)
 
