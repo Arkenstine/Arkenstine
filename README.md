@@ -1,2 +1,2 @@
-![Screenshot](leia.png)
+![Screenshot](sky.png)
 
