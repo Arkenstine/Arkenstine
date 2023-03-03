@@ -1,2 +1,2 @@
-![Screenshot](carbon.png)
+![Screenshot](carbon.jpg)
 
