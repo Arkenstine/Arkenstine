@@ -1,2 +1,2 @@
-![Screenshot](clone.gif)
+![Screenshot](clones.gif)
 
