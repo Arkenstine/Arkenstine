@@ -1,2 +1,2 @@
-![Screenshot](leia.gif)
+![Screenshot](leia.jpg)
 
