@@ -1,2 +1,2 @@
-![Screenshot](sky.png)
+![Screenshot](luke.png)
 
